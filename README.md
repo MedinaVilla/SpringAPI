@@ -10,4 +10,4 @@ GET /api/countries/continent/id/{continentId}  <-------- Obtienen los paises dad
 
 GET /api/country/id/{countryId} <--------- Obtiene un pais dado la id del pais que se desee
 
-POST /api/continent/country <----------- Guarda un nuevo pais dado un JSON{"name","capital","continen"}
+POST /api/continent/country <----------- Guarda un nuevo pais dado un JSON{"name","capital","continente"}
